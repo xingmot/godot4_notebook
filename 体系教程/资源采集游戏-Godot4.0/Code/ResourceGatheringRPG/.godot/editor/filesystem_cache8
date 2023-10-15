@@ -1,0 +1,93 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1697374361
+icon.svg::CompressedTexture2D::3726387878890016332::1697372688::1697372696::1::::<><>::
+::res://assets/::1697374361
+::res://assets/fantasy_ [version 2.0]/::1697374357
+readMe_.txt::TextFile::-1::1697374357::0::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/cave_/::1697374357
+cave_ [bridgeAnimatedTiles].png::CompressedTexture2D::4539159061086488413::1697374357::1697374362::1::::<><>::
+cave_ [bridgeHorizontal].png::CompressedTexture2D::5167863608077324031::1697374357::1697374362::1::::<><>::
+cave_ [bridgeVertical].png::CompressedTexture2D::15957867319126312::1697374357::1697374362::1::::<><>::
+cave_ [fencesAndWalls].png::CompressedTexture2D::8006185651965081977::1697374357::1697374362::1::::<><>::
+cave_ [fountain].png::CompressedTexture2D::6717321725240786585::1697374357::1697374362::1::::<><>::
+cave_ [resources].png::CompressedTexture2D::8783534490385516::1697374357::1697374362::1::::<><>::
+cave_.png::CompressedTexture2D::617091601560177955::1697374357::1697374362::1::::<><>::
+railway_.png::CompressedTexture2D::1156778530398191835::1697374357::1697374362::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/desert_/::1697374357
+desertPath_.png::CompressedTexture2D::7359174556603497911::1697374357::1697374362::1::::<><>::
+desert_ [bridgeAnimatedTiles].png::CompressedTexture2D::3063441036933311240::1697374357::1697374362::1::::<><>::
+desert_ [bridgeHorizontal].png::CompressedTexture2D::4475588796667522200::1697374357::1697374362::1::::<><>::
+desert_ [bridgeVertical].png::CompressedTexture2D::476825003222673834::1697374357::1697374362::1::::<><>::
+desert_ [fencesAndWalls].png::CompressedTexture2D::1455416889539223552::1697374357::1697374362::1::::<><>::
+desert_ [fountain].png::CompressedTexture2D::3150992249687094120::1697374357::1697374362::1::::<><>::
+desert_ [resources].png::CompressedTexture2D::6742856017500569113::1697374357::1697374362::1::::<><>::
+desert_.png::CompressedTexture2D::8356119935301996443::1697374357::1697374362::1::::<><>::
+quickSand_.png::CompressedTexture2D::6976119216888227390::1697374357::1697374361::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/fantasy_/::1697374357
+forestDesert_.png::CompressedTexture2D::4219657617053415472::1697374357::1697374361::1::::<><>::
+swampDesert_.png::CompressedTexture2D::7688791220985948330::1697374357::1697374361::1::::<><>::
+swampForest_.png::CompressedTexture2D::3599518946334805924::1697374357::1697374362::1::::<><>::
+swampTaiga_.png::CompressedTexture2D::9130414745336137491::1697374357::1697374362::1::::<><>::
+taigaDesert_.png::CompressedTexture2D::7043430278998107426::1697374357::1697374362::1::::<><>::
+taigaForest_.png::CompressedTexture2D::4687157351835502861::1697374357::1697374362::1::::<><>::
+tundraDesert_.png::CompressedTexture2D::9190490803305266723::1697374357::1697374362::1::::<><>::
+tundraForest.png::CompressedTexture2D::5335327576132295338::1697374357::1697374362::1::::<><>::
+tundraSwampTaigaForestDesert_0.png::CompressedTexture2D::7611917755444713840::1697374357::1697374362::1::::<><>::
+tundraSwampTaigaForestDesert_1.png::CompressedTexture2D::5778633489733498750::1697374357::1697374362::1::::<><>::
+tundraSwamp_.png::CompressedTexture2D::5153937225375248252::1697374357::1697374362::1::::<><>::
+tundraTaiga_.png::CompressedTexture2D::4173316964533210588::1697374357::1697374362::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/forest_/::1697374357
+forestPath_.png::CompressedTexture2D::5357836622317746447::1697374357::1697374362::1::::<><>::
+forest_ [bridgeAnimatedTiles].png::CompressedTexture2D::2934961743361628781::1697374357::1697374362::1::::<><>::
+forest_ [bridgeHorizontal].png::CompressedTexture2D::3054777223853132806::1697374357::1697374362::1::::<><>::
+forest_ [bridgeVertical].png::CompressedTexture2D::7331869211320398408::1697374357::1697374362::1::::<><>::
+forest_ [fencesAndWalls].png::CompressedTexture2D::3633081495518337526::1697374357::1697374362::1::::<><>::
+forest_ [fountain].png::CompressedTexture2D::7085070620642849973::1697374357::1697374362::1::::<><>::
+forest_ [resources].png::CompressedTexture2D::1988445203982763466::1697374357::1697374362::1::::<><>::
+forest_.png::CompressedTexture2D::1396123487324695544::1697374357::1697374362::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/swamp_/::1697374357
+puddle_.png::CompressedTexture2D::6441332163359854181::1697374357::1697374362::1::::<><>::
+swamp_ [bridgeAnimatedTiles].png::CompressedTexture2D::8215099552917256056::1697374357::1697374361::1::::<><>::
+swamp_ [bridgeHorizontal].png::CompressedTexture2D::8079147196112978915::1697374357::1697374361::1::::<><>::
+swamp_ [bridgeVertical].png::CompressedTexture2D::8239410060404008389::1697374357::1697374361::1::::<><>::
+swamp_ [fencesAndWalls].png::CompressedTexture2D::3818593074066840386::1697374357::1697374361::1::::<><>::
+swamp_ [fountain].png::CompressedTexture2D::7723266579581361512::1697374357::1697374361::1::::<><>::
+swamp_ [resources].png::CompressedTexture2D::3659762995822587877::1697374357::1697374361::1::::<><>::
+swamp_.png::CompressedTexture2D::4710507244885445156::1697374357::1697374361::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/taiga_/::1697374357
+taigaPath_.png::CompressedTexture2D::789424147573583072::1697374357::1697374361::1::::<><>::
+taiga_ [bridgeAnimatedTiles].png::CompressedTexture2D::2980190814471725937::1697374357::1697374361::1::::<><>::
+taiga_ [bridgeHorizontal].png::CompressedTexture2D::3502106899835666418::1697374357::1697374361::1::::<><>::
+taiga_ [bridgeVertical].png::CompressedTexture2D::3481997729343779702::1697374357::1697374361::1::::<><>::
+taiga_ [fencesAndWalls].png::CompressedTexture2D::3039521172478741504::1697374357::1697374361::1::::<><>::
+taiga_ [fountain].png::CompressedTexture2D::1429027774135262326::1697374357::1697374361::1::::<><>::
+taiga_ [resources].png::CompressedTexture2D::8405042600186837101::1697374357::1697374361::1::::<><>::
+taiga_.png::CompressedTexture2D::742154077498154536::1697374357::1697374361::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/tundra_/::1697374357
+ice_.png::CompressedTexture2D::8944900746127627984::1697374357::1697374361::1::::<><>::
+igloo_.png::CompressedTexture2D::7613037875659606358::1697374357::1697374361::1::::<><>::
+tundraPath_.png::CompressedTexture2D::6543437605139620066::1697374357::1697374361::1::::<><>::
+tundra_ [bridgeAnimatedTiles].png::CompressedTexture2D::7870547458980489594::1697374357::1697374361::1::::<><>::
+tundra_ [bridgeHorizontal].png::CompressedTexture2D::4082389234151615553::1697374357::1697374361::1::::<><>::
+tundra_ [bridgeVertical].png::CompressedTexture2D::8303586977729387398::1697374357::1697374361::1::::<><>::
+tundra_ [fencesAndWalls].png::CompressedTexture2D::7935462881935918523::1697374357::1697374361::1::::<><>::
+tundra_ [fountain].png::CompressedTexture2D::6100565452661671575::1697374357::1697374361::1::::<><>::
+tundra_ [ice].png::CompressedTexture2D::3811553399324710887::1697374357::1697374361::1::::<><>::
+tundra_ [resources].png::CompressedTexture2D::6003940894967474250::1697374357::1697374361::1::::<><>::
+tundra_.png::CompressedTexture2D::3577362780708426389::1697374357::1697374361::1::::<><>::
+::res://assets/playerSprites_ [version 1.0]/::1697374357
+fPlayer_ [dwarf].png::CompressedTexture2D::2879447413065633309::1697374357::1697374361::1::::<><>::
+fPlayer_ [elf].png::CompressedTexture2D::1367723624167476533::1697374357::1697374361::1::::<><>::
+fPlayer_ [human].png::CompressedTexture2D::7298240025708560991::1697374357::1697374361::1::::<><>::
+mPlayer_ [dwarf].png::CompressedTexture2D::7963069078702826885::1697374357::1697374361::1::::<><>::
+mPlayer_ [elf].png::CompressedTexture2D::1463883412439633706::1697374357::1697374361::1::::<><>::
+mPlayer_ [human].png::CompressedTexture2D::5036995809927157325::1697374357::1697374361::1::::<><>::
+playerDust_.png::CompressedTexture2D::6022161110444321690::1697374357::1697374361::1::::<><>::
+readMe_.txt::TextFile::-1::1697374357::0::1::::<><>::
+sword_ [diamond].png::CompressedTexture2D::4333248749861875125::1697374357::1697374361::1::::<><>::
+sword_ [gold].png::CompressedTexture2D::6379683186837849437::1697374357::1697374361::1::::<><>::
+sword_ [iron].png::CompressedTexture2D::1228209105877748343::1697374357::1697374361::1::::<><>::
+sword_ [shield].png::CompressedTexture2D::4016084234539463982::1697374357::1697374361::1::::<><>::
+sword_ [wood].png::CompressedTexture2D::4712185747734363814::1697374357::1697374361::1::::<><>::
+::res://Characters/::1697374174
+player.tscn::PackedScene::2292372455138149899::1697374151::0::1::::<><>::
