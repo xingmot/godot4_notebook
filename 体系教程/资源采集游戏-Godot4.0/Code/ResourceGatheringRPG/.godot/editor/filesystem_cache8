@@ -1,284 +1,108 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698372100
-Godot_v4.1.1-stable_win64.20231016-004956-826.log::TextFile::-1::1697388596::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-010025-777.log::TextFile::-1::1697389225::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-010118-740.log::TextFile::-1::1697389278::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-010248-820.log::TextFile::-1::1697389368::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-010308-243.log::TextFile::-1::1697389388::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-011218-188.log::TextFile::-1::1697389938::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-011247-401.log::TextFile::-1::1697389967::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-011432-939.log::TextFile::-1::1697390072::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-011617-847.log::TextFile::-1::1697390177::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-011653-206.log::TextFile::-1::1697390213::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-011731-489.log::TextFile::-1::1697390251::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-012754-582.log::TextFile::-1::1697390874::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-012937-574.log::TextFile::-1::1697390977::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013000-637.log::TextFile::-1::1697391000::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013103-758.log::TextFile::-1::1697391063::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013145-078.log::TextFile::-1::1697391105::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013212-768.log::TextFile::-1::1697391132::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013328-983.log::TextFile::-1::1697391208::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013449-540.log::TextFile::-1::1697391289::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013500-157.log::TextFile::-1::1697391300::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-013637-264.log::TextFile::-1::1697391397::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-014510-005.log::TextFile::-1::1697391910::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-014547-084.log::TextFile::-1::1697391947::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015032-323.log::TextFile::-1::1697392232::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015059-419.log::TextFile::-1::1697392259::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015115-176.log::TextFile::-1::1697392275::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015253-585.log::TextFile::-1::1697392373::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015402-687.log::TextFile::-1::1697392442::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015416-142.log::TextFile::-1::1697392456::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015513-615.log::TextFile::-1::1697392513::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015542-762.log::TextFile::-1::1697392542::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-015600-749.log::TextFile::-1::1697392560::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-022054-404.log::TextFile::-1::1697394054::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-022105-577.log::TextFile::-1::1697394065::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-022149-674.log::TextFile::-1::1697394109::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-022746-573.log::TextFile::-1::1697394466::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-023225-849.log::TextFile::-1::1697394745::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-023503-379.log::TextFile::-1::1697394903::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-024657-264.log::TextFile::-1::1697395617::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-024757-171.log::TextFile::-1::1697395677::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-024903-996.log::TextFile::-1::1697395743::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-025229-313.log::TextFile::-1::1697395949::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-025302-743.log::TextFile::-1::1697395982::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-025314-989.log::TextFile::-1::1697395994::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-025329-871.log::TextFile::-1::1697396009::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-025513-147.log::TextFile::-1::1697396113::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-025601-868.log::TextFile::-1::1697396161::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-025715-739.log::TextFile::-1::1697396235::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-030004-890.log::TextFile::-1::1697396404::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-030059-384.log::TextFile::-1::1697396459::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-030204-196.log::TextFile::-1::1697396524::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-030415-657.log::TextFile::-1::1697396655::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-030611-057.log::TextFile::-1::1697396771::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-085937-028.log::TextFile::-1::1697417977::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-085950-553.log::TextFile::-1::1697417990::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-090133-971.log::TextFile::-1::1697418093::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-090306-623.log::TextFile::-1::1697418186::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-090440-930.log::TextFile::-1::1697418280::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-090504-486.log::TextFile::-1::1697418304::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-091651-351.log::TextFile::-1::1697419011::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-091731-829.log::TextFile::-1::1697419051::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-091832-130.log::TextFile::-1::1697419112::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-092120-446.log::TextFile::-1::1697419280::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-092829-993.log::TextFile::-1::1697419709::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-092851-771.log::TextFile::-1::1697419731::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-092912-670.log::TextFile::-1::1697419752::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-093452-870.log::TextFile::-1::1697420092::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-093530-409.log::TextFile::-1::1697420130::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-100923-297.log::TextFile::-1::1697422163::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-101008-463.log::TextFile::-1::1697422208::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-101034-691.log::TextFile::-1::1697422234::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-101401-760.log::TextFile::-1::1697422441::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-101726-458.log::TextFile::-1::1697422646::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-101733-980.log::TextFile::-1::1697422653::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-101853-942.log::TextFile::-1::1697422733::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102049-792.log::TextFile::-1::1697422849::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102314-721.log::TextFile::-1::1697422994::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102332-399.log::TextFile::-1::1697423012::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102359-340.log::TextFile::-1::1697423039::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102431-935.log::TextFile::-1::1697423071::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102611-226.log::TextFile::-1::1697423171::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102619-864.log::TextFile::-1::1697423179::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-102650-242.log::TextFile::-1::1697423210::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-103414-383.log::TextFile::-1::1697423654::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-103807-706.log::TextFile::-1::1697423887::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-103855-567.log::TextFile::-1::1697423935::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-103914-265.log::TextFile::-1::1697423954::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-103955-975.log::TextFile::-1::1697423995::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-104626-097.log::TextFile::-1::1697424386::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-104742-828.log::TextFile::-1::1697424462::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-105011-436.log::TextFile::-1::1697424611::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-110143-973.log::TextFile::-1::1697425303::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-110314-046.log::TextFile::-1::1697425394::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-110344-790.log::TextFile::-1::1697425424::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-111919-315.log::TextFile::-1::1697426359::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-112600-040.log::TextFile::-1::1697426760::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-112741-010.log::TextFile::-1::1697426861::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-113325-593.log::TextFile::-1::1697427205::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-113337-677.log::TextFile::-1::1697427217::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-113350-067.log::TextFile::-1::1697427230::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-113413-838.log::TextFile::-1::1697427253::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-113430-219.log::TextFile::-1::1697427270::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-113527-898.log::TextFile::-1::1697427327::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-140200-616.log::TextFile::-1::1697436120::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-140431-121.log::TextFile::-1::1697436271::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-140646-376.log::TextFile::-1::1697436406::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-140718-747.log::TextFile::-1::1697436438::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-141224-708.log::TextFile::-1::1697436744::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-141240-073.log::TextFile::-1::1697436760::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-141837-786.log::TextFile::-1::1697437117::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-141852-280.log::TextFile::-1::1697437132::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-142106-671.log::TextFile::-1::1697437266::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-153621-599.log::TextFile::-1::1697441781::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-153637-178.log::TextFile::-1::1697441797::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-154320-898.log::TextFile::-1::1697442200::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-154549-206.log::TextFile::-1::1697442349::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-154824-410.log::TextFile::-1::1697442504::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-155118-865.log::TextFile::-1::1697442678::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-155730-130.log::TextFile::-1::1697443050::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-155932-950.log::TextFile::-1::1697443172::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161035-981.log::TextFile::-1::1697443835::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161124-855.log::TextFile::-1::1697443884::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161212-473.log::TextFile::-1::1697443932::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161250-343.log::TextFile::-1::1697443970::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161637-006.log::TextFile::-1::1697444197::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161708-414.log::TextFile::-1::1697444228::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161732-012.log::TextFile::-1::1697444252::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161820-635.log::TextFile::-1::1697444300::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-161836-631.log::TextFile::-1::1697444316::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162114-271.log::TextFile::-1::1697444474::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162208-086.log::TextFile::-1::1697444528::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162237-340.log::TextFile::-1::1697444557::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162358-704.log::TextFile::-1::1697444638::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162533-463.log::TextFile::-1::1697444733::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162612-365.log::TextFile::-1::1697444772::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162717-608.log::TextFile::-1::1697444837::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162842-718.log::TextFile::-1::1697444922::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-162911-759.log::TextFile::-1::1697444951::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163046-503.log::TextFile::-1::1697445046::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163056-382.log::TextFile::-1::1697445056::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163107-894.log::TextFile::-1::1697445067::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163127-871.log::TextFile::-1::1697445087::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163157-756.log::TextFile::-1::1697445117::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163210-539.log::TextFile::-1::1697445130::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163236-856.log::TextFile::-1::1697445156::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163257-208.log::TextFile::-1::1697445177::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163310-176.log::TextFile::-1::1697445190::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163441-112.log::TextFile::-1::1697445281::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163641-227.log::TextFile::-1::1697445401::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163752-187.log::TextFile::-1::1697445472::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163832-895.log::TextFile::-1::1697445512::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163859-372.log::TextFile::-1::1697445539::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-163952-116.log::TextFile::-1::1697445592::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-164226-555.log::TextFile::-1::1697445746::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-164250-063.log::TextFile::-1::1697445770::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-164953-874.log::TextFile::-1::1697446193::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165023-123.log::TextFile::-1::1697446223::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165055-323.log::TextFile::-1::1697446255::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165148-135.log::TextFile::-1::1697446308::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165220-717.log::TextFile::-1::1697446340::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165331-133.log::TextFile::-1::1697446411::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165418-535.log::TextFile::-1::1697446458::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165623-841.log::TextFile::-1::1697446583::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165659-173.log::TextFile::-1::1697446619::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165721-498.log::TextFile::-1::1697446641::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165810-254.log::TextFile::-1::1697446690::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231016-165905-823.log::TextFile::-1::1697446745::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-093439-546.log::TextFile::-1::1697506479::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-111708-360.log::TextFile::-1::1697512628::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-112829-387.log::TextFile::-1::1697513309::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-113212-834.log::TextFile::-1::1697513532::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-113225-546.log::TextFile::-1::1697513545::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-113245-034.log::TextFile::-1::1697513565::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-114241-969.log::TextFile::-1::1697514161::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-114324-965.log::TextFile::-1::1697514204::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231017-114335-439.log::TextFile::-1::1697514215::0::1::::<><>::
-Godot_v4.1.1-stable_win64.20231027-100137-531.log::TextFile::-1::1698372097::0::1::::<><>::
-icon.svg::CompressedTexture2D::3726387878890016332::1697388346::1697388601::1::::<><>::
-::res://assets/::1697388346
-::res://assets/fantasy_ [version 2.0]/::1697388346
-readMe_.txt::TextFile::-1::1697388346::0::1::::<><>::
-::res://assets/fantasy_ [version 2.0]/cave_/::1697388346
-cave_ [bridgeAnimatedTiles].png::CompressedTexture2D::4539159061086488413::1697388346::1697388346::1::::<><>::
-cave_ [bridgeHorizontal].png::CompressedTexture2D::5167863608077324031::1697388346::1697388346::1::::<><>::
-cave_ [bridgeVertical].png::CompressedTexture2D::15957867319126312::1697388346::1697388346::1::::<><>::
-cave_ [fencesAndWalls].png::CompressedTexture2D::8006185651965081977::1697388346::1697388346::1::::<><>::
-cave_ [fountain].png::CompressedTexture2D::6717321725240786585::1697388346::1697388346::1::::<><>::
-cave_ [resources].png::CompressedTexture2D::8783534490385516::1697388346::1697388346::1::::<><>::
-cave_.png::CompressedTexture2D::617091601560177955::1697388346::1697388346::1::::<><>::
-railway_.png::CompressedTexture2D::1156778530398191835::1697388346::1697388346::1::::<><>::
-::res://assets/fantasy_ [version 2.0]/desert_/::1697388346
-desertPath_.png::CompressedTexture2D::7359174556603497911::1697388346::1697388346::1::::<><>::
-desert_ [bridgeAnimatedTiles].png::CompressedTexture2D::3063441036933311240::1697388346::1697388346::1::::<><>::
-desert_ [bridgeHorizontal].png::CompressedTexture2D::4475588796667522200::1697388346::1697388346::1::::<><>::
-desert_ [bridgeVertical].png::CompressedTexture2D::476825003222673834::1697388346::1697388346::1::::<><>::
-desert_ [fencesAndWalls].png::CompressedTexture2D::1455416889539223552::1697388346::1697388346::1::::<><>::
-desert_ [fountain].png::CompressedTexture2D::3150992249687094120::1697388346::1697388346::1::::<><>::
-desert_ [resources].png::CompressedTexture2D::6742856017500569113::1697388346::1697388346::1::::<><>::
-desert_.png::CompressedTexture2D::8356119935301996443::1697388346::1697388346::1::::<><>::
-quickSand_.png::CompressedTexture2D::6976119216888227390::1697388346::1697388346::1::::<><>::
-::res://assets/fantasy_ [version 2.0]/fantasy_/::1697388346
-forestDesert_.png::CompressedTexture2D::4219657617053415472::1697388346::1697388346::1::::<><>::
-swampDesert_.png::CompressedTexture2D::7688791220985948330::1697388346::1697388346::1::::<><>::
-swampForest_.png::CompressedTexture2D::3599518946334805924::1697388346::1697388346::1::::<><>::
-swampTaiga_.png::CompressedTexture2D::9130414745336137491::1697388346::1697388346::1::::<><>::
-taigaDesert_.png::CompressedTexture2D::7043430278998107426::1697388346::1697388346::1::::<><>::
-taigaForest_.png::CompressedTexture2D::4687157351835502861::1697388346::1697388346::1::::<><>::
-tundraDesert_.png::CompressedTexture2D::9190490803305266723::1697388346::1697388346::1::::<><>::
-tundraForest.png::CompressedTexture2D::5335327576132295338::1697388346::1697388346::1::::<><>::
-tundraSwampTaigaForestDesert_0.png::CompressedTexture2D::7611917755444713840::1697388346::1697388346::1::::<><>::
-tundraSwampTaigaForestDesert_1.png::CompressedTexture2D::5778633489733498750::1697388346::1697388346::1::::<><>::
-tundraSwamp_.png::CompressedTexture2D::5153937225375248252::1697388346::1697388346::1::::<><>::
-tundraTaiga_.png::CompressedTexture2D::4173316964533210588::1697388346::1697388346::1::::<><>::
-::res://assets/fantasy_ [version 2.0]/forest_/::1697388346
-forestPath_.png::CompressedTexture2D::5357836622317746447::1697388346::1697388346::1::::<><>::
-forest_ [bridgeAnimatedTiles].png::CompressedTexture2D::2934961743361628781::1697388346::1697388346::1::::<><>::
-forest_ [bridgeHorizontal].png::CompressedTexture2D::3054777223853132806::1697388346::1697388346::1::::<><>::
-forest_ [bridgeVertical].png::CompressedTexture2D::7331869211320398408::1697388346::1697388346::1::::<><>::
-forest_ [fencesAndWalls].png::CompressedTexture2D::3633081495518337526::1697388346::1697388346::1::::<><>::
-forest_ [fountain].png::CompressedTexture2D::7085070620642849973::1697388346::1697388346::1::::<><>::
-forest_ [resources].png::CompressedTexture2D::1988445203982763466::1697388346::1697388346::1::::<><>::
-forest_.png::CompressedTexture2D::1396123487324695544::1697388346::1697388346::1::::<><>::
-::res://assets/fantasy_ [version 2.0]/swamp_/::1697388346
-puddle_.png::CompressedTexture2D::6441332163359854181::1697388346::1697388346::1::::<><>::
-swamp_ [bridgeAnimatedTiles].png::CompressedTexture2D::8215099552917256056::1697388346::1697388346::1::::<><>::
-swamp_ [bridgeHorizontal].png::CompressedTexture2D::8079147196112978915::1697388346::1697388346::1::::<><>::
-swamp_ [bridgeVertical].png::CompressedTexture2D::8239410060404008389::1697388346::1697388346::1::::<><>::
-swamp_ [fencesAndWalls].png::CompressedTexture2D::3818593074066840386::1697388346::1697388346::1::::<><>::
-swamp_ [fountain].png::CompressedTexture2D::7723266579581361512::1697388346::1697388346::1::::<><>::
-swamp_ [resources].png::CompressedTexture2D::3659762995822587877::1697388346::1697388346::1::::<><>::
-swamp_.png::CompressedTexture2D::4710507244885445156::1697388346::1697388346::1::::<><>::
-::res://assets/fantasy_ [version 2.0]/taiga_/::1697388346
-taigaPath_.png::CompressedTexture2D::789424147573583072::1697388346::1697388346::1::::<><>::
-taiga_ [bridgeAnimatedTiles].png::CompressedTexture2D::2980190814471725937::1697388346::1697388346::1::::<><>::
-taiga_ [bridgeHorizontal].png::CompressedTexture2D::3502106899835666418::1697388346::1697388346::1::::<><>::
-taiga_ [bridgeVertical].png::CompressedTexture2D::3481997729343779702::1697388346::1697388346::1::::<><>::
-taiga_ [fencesAndWalls].png::CompressedTexture2D::3039521172478741504::1697388346::1697388346::1::::<><>::
-taiga_ [fountain].png::CompressedTexture2D::1429027774135262326::1697388346::1697388346::1::::<><>::
-taiga_ [resources].png::CompressedTexture2D::8405042600186837101::1697388346::1697388346::1::::<><>::
-taiga_.png::CompressedTexture2D::742154077498154536::1697388346::1697388346::1::::<><>::
-::res://assets/fantasy_ [version 2.0]/tundra_/::1697388346
-ice_.png::CompressedTexture2D::8944900746127627984::1697388346::1697388346::1::::<><>::
-igloo_.png::CompressedTexture2D::7613037875659606358::1697388346::1697388346::1::::<><>::
-tundraPath_.png::CompressedTexture2D::6543437605139620066::1697388346::1697388346::1::::<><>::
-tundra_ [bridgeAnimatedTiles].png::CompressedTexture2D::7870547458980489594::1697388346::1697388346::1::::<><>::
-tundra_ [bridgeHorizontal].png::CompressedTexture2D::4082389234151615553::1697388346::1697388346::1::::<><>::
-tundra_ [bridgeVertical].png::CompressedTexture2D::8303586977729387398::1697388346::1697388346::1::::<><>::
-tundra_ [fencesAndWalls].png::CompressedTexture2D::7935462881935918523::1697388346::1697388346::1::::<><>::
-tundra_ [fountain].png::CompressedTexture2D::6100565452661671575::1697388346::1697388346::1::::<><>::
-tundra_ [ice].png::CompressedTexture2D::3811553399324710887::1697388346::1697388346::1::::<><>::
-tundra_ [resources].png::CompressedTexture2D::6003940894967474250::1697388346::1697388346::1::::<><>::
-tundra_.png::CompressedTexture2D::3577362780708426389::1697388346::1697388346::1::::<><>::
-::res://assets/playerSprites_ [version 1.0]/::1697388346
-fPlayer_ [dwarf].png::CompressedTexture2D::2879447413065633309::1697388346::1697388346::1::::<><>::
-fPlayer_ [elf].png::CompressedTexture2D::1367723624167476533::1697388346::1697388346::1::::<><>::
-fPlayer_ [human].png::CompressedTexture2D::7298240025708560991::1697388346::1697388346::1::::<><>::
-mPlayer_ [dwarf].png::CompressedTexture2D::7963069078702826885::1697388346::1697388346::1::::<><>::
-mPlayer_ [elf].png::CompressedTexture2D::1463883412439633706::1697388346::1697388346::1::::<><>::
-mPlayer_ [human].png::CompressedTexture2D::5036995809927157325::1697388346::1697388346::1::::<><>::
-playerDust_.png::CompressedTexture2D::6022161110444321690::1697388346::1697388346::1::::<><>::
-readMe_.txt::TextFile::-1::1697388346::0::1::::<><>::
-sword_ [diamond].png::CompressedTexture2D::4333248749861875125::1697388346::1697388346::1::::<><>::
-sword_ [gold].png::CompressedTexture2D::6379683186837849437::1697388346::1697388346::1::::<><>::
-sword_ [iron].png::CompressedTexture2D::1228209105877748343::1697388346::1697388346::1::::<><>::
-sword_ [shield].png::CompressedTexture2D::4016084234539463982::1697388346::1697388346::1::::<><>::
-sword_ [wood].png::CompressedTexture2D::4712185747734363814::1697388346::1697388346::1::::<><>::
-::res://Characters/::1697514214
-HandEquip.gd::GDScript::-1::1697443047::0::1::::<>Node2D<>::
-player.gd::GDScript::-1::1697438623::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::2292372455138149899::1697514214::0::1::::<><>::uid://db8k7gwojscwl::::res://assets/playerSprites_ [version 1.0]/fPlayer_ [human].png<>res://Characters/player.gd<>uid://b8evamqy0xvak::::res://assets/playerSprites_ [version 1.0]/sword_ [wood].png<>res://Characters/HandEquip.gd<>uid://j8nybihyebqc::::res://Items/test_item.tres<>res://Classes/HitBox.gd
-::res://Classes/::1697446745
-HitBox.gd::GDScript::-1::1697446581::0::1::::HitBox<>Area2D<>::
-HurtBox.gd::GDScript::-1::1697446745::0::1::::HurtBox<>Area2D<>::
-::res://Items/::1697513529
-equippable_item.gd::GDScript::-1::1697441153::0::1::::EquippableItem<>Resource<>::
-test_item.tres::Resource/EquippableItem::700656303818010022::1697513529::0::1::::<><>::res://Items/equippable_item.gd<>uid://rq7oo00ad1ax::::res://assets/playerSprites_ [version 1.0]/sword_ [iron].png
-::res://Level/::1697588669
-game_level.gd::GDScript::-1::1697588669::0::1::::<>Node2D<>::
-game_level.tscn::PackedScene::4487195667634994473::1697514215::0::1::::<><>::uid://7wpblthpejqx::::res://Characters/player.tscn<>res://Level/game_level.gd<>uid://eneb2g8e752i::::res://Objects/resource_node_rock_tall.tscn
-::res://Objects/::1697446745
-resource_node_rock_tall.gd::GDScript::-1::1697440495::0::1::::ResourceNode<>StaticBody2D<>::
-resource_node_rock_tall.tscn::PackedScene::307838368025165430::1697446745::0::1::::<><>::uid://eiwtbmyi8dc
+::res://::1698391300
+icon.svg::CompressedTexture2D::3726387878890016332::1697372688::1698391300::1::::<><>::
+::res://assets/::1697374361
+::res://assets/fantasy_ [version 2.0]/::1697374357
+readMe_.txt::TextFile::-1::1697374357::0::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/cave_/::1697374362
+cave_ [bridgeAnimatedTiles].png::CompressedTexture2D::4539159061086488413::1697374357::1697374362::1::::<><>::
+cave_ [bridgeHorizontal].png::CompressedTexture2D::5167863608077324031::1697374357::1697374362::1::::<><>::
+cave_ [bridgeVertical].png::CompressedTexture2D::15957867319126312::1697374357::1697374362::1::::<><>::
+cave_ [fencesAndWalls].png::CompressedTexture2D::8006185651965081977::1697374357::1697374362::1::::<><>::
+cave_ [fountain].png::CompressedTexture2D::6717321725240786585::1697374357::1697374362::1::::<><>::
+cave_ [resources].png::CompressedTexture2D::8783534490385516::1697374357::1697374362::1::::<><>::
+cave_.png::CompressedTexture2D::617091601560177955::1697374357::1697374362::1::::<><>::
+railway_.png::CompressedTexture2D::1156778530398191835::1697374357::1697374362::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/desert_/::1697374362
+desertPath_.png::CompressedTexture2D::7359174556603497911::1697374357::1697374362::1::::<><>::
+desert_ [bridgeAnimatedTiles].png::CompressedTexture2D::3063441036933311240::1697374357::1697374362::1::::<><>::
+desert_ [bridgeHorizontal].png::CompressedTexture2D::4475588796667522200::1697374357::1697374362::1::::<><>::
+desert_ [bridgeVertical].png::CompressedTexture2D::476825003222673834::1697374357::1697374362::1::::<><>::
+desert_ [fencesAndWalls].png::CompressedTexture2D::1455416889539223552::1697374357::1697374362::1::::<><>::
+desert_ [fountain].png::CompressedTexture2D::3150992249687094120::1697374357::1697374362::1::::<><>::
+desert_ [resources].png::CompressedTexture2D::6742856017500569113::1697374357::1697374362::1::::<><>::
+desert_.png::CompressedTexture2D::8356119935301996443::1697374357::1697374362::1::::<><>::
+quickSand_.png::CompressedTexture2D::6976119216888227390::1697374357::1697374361::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/fantasy_/::1697374362
+forestDesert_.png::CompressedTexture2D::4219657617053415472::1697374357::1697374361::1::::<><>::
+swampDesert_.png::CompressedTexture2D::7688791220985948330::1697374357::1697374361::1::::<><>::
+swampForest_.png::CompressedTexture2D::3599518946334805924::1697374357::1697374362::1::::<><>::
+swampTaiga_.png::CompressedTexture2D::9130414745336137491::1697374357::1697374362::1::::<><>::
+taigaDesert_.png::CompressedTexture2D::7043430278998107426::1697374357::1697374362::1::::<><>::
+taigaForest_.png::CompressedTexture2D::4687157351835502861::1697374357::1697374362::1::::<><>::
+tundraDesert_.png::CompressedTexture2D::9190490803305266723::1697374357::1697374362::1::::<><>::
+tundraForest.png::CompressedTexture2D::5335327576132295338::1697374357::1697374362::1::::<><>::
+tundraSwampTaigaForestDesert_0.png::CompressedTexture2D::7611917755444713840::1697374357::1697374362::1::::<><>::
+tundraSwampTaigaForestDesert_1.png::CompressedTexture2D::5778633489733498750::1697374357::1697374362::1::::<><>::
+tundraSwamp_.png::CompressedTexture2D::5153937225375248252::1697374357::1697374362::1::::<><>::
+tundraTaiga_.png::CompressedTexture2D::4173316964533210588::1697374357::1697374362::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/forest_/::1697374362
+forestPath_.png::CompressedTexture2D::5357836622317746447::1697374357::1697374362::1::::<><>::
+forest_ [bridgeAnimatedTiles].png::CompressedTexture2D::2934961743361628781::1697374357::1697374362::1::::<><>::
+forest_ [bridgeHorizontal].png::CompressedTexture2D::3054777223853132806::1697374357::1697374362::1::::<><>::
+forest_ [bridgeVertical].png::CompressedTexture2D::7331869211320398408::1697374357::1697374362::1::::<><>::
+forest_ [fencesAndWalls].png::CompressedTexture2D::3633081495518337526::1697374357::1697374362::1::::<><>::
+forest_ [fountain].png::CompressedTexture2D::7085070620642849973::1697374357::1697374362::1::::<><>::
+forest_ [resources].png::CompressedTexture2D::1988445203982763466::1697374357::1697374362::1::::<><>::
+forest_.png::CompressedTexture2D::1396123487324695544::1697374357::1697374362::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/swamp_/::1697374362
+puddle_.png::CompressedTexture2D::6441332163359854181::1697374357::1697374362::1::::<><>::
+swamp_ [bridgeAnimatedTiles].png::CompressedTexture2D::8215099552917256056::1697374357::1697374361::1::::<><>::
+swamp_ [bridgeHorizontal].png::CompressedTexture2D::8079147196112978915::1697374357::1697374361::1::::<><>::
+swamp_ [bridgeVertical].png::CompressedTexture2D::8239410060404008389::1697374357::1697374361::1::::<><>::
+swamp_ [fencesAndWalls].png::CompressedTexture2D::3818593074066840386::1697374357::1697374361::1::::<><>::
+swamp_ [fountain].png::CompressedTexture2D::7723266579581361512::1697374357::1697374361::1::::<><>::
+swamp_ [resources].png::CompressedTexture2D::3659762995822587877::1697374357::1697374361::1::::<><>::
+swamp_.png::CompressedTexture2D::4710507244885445156::1697374357::1697374361::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/taiga_/::1697374361
+taigaPath_.png::CompressedTexture2D::789424147573583072::1697374357::1697374361::1::::<><>::
+taiga_ [bridgeAnimatedTiles].png::CompressedTexture2D::2980190814471725937::1697374357::1697374361::1::::<><>::
+taiga_ [bridgeHorizontal].png::CompressedTexture2D::3502106899835666418::1697374357::1697374361::1::::<><>::
+taiga_ [bridgeVertical].png::CompressedTexture2D::3481997729343779702::1697374357::1697374361::1::::<><>::
+taiga_ [fencesAndWalls].png::CompressedTexture2D::3039521172478741504::1697374357::1697374361::1::::<><>::
+taiga_ [fountain].png::CompressedTexture2D::1429027774135262326::1697374357::1697374361::1::::<><>::
+taiga_ [resources].png::CompressedTexture2D::8405042600186837101::1697374357::1697374361::1::::<><>::
+taiga_.png::CompressedTexture2D::742154077498154536::1697374357::1697374361::1::::<><>::
+::res://assets/fantasy_ [version 2.0]/tundra_/::1697374361
+ice_.png::CompressedTexture2D::8944900746127627984::1697374357::1697374361::1::::<><>::
+igloo_.png::CompressedTexture2D::7613037875659606358::1697374357::1697374361::1::::<><>::
+tundraPath_.png::CompressedTexture2D::6543437605139620066::1697374357::1697374361::1::::<><>::
+tundra_ [bridgeAnimatedTiles].png::CompressedTexture2D::7870547458980489594::1697374357::1697374361::1::::<><>::
+tundra_ [bridgeHorizontal].png::CompressedTexture2D::4082389234151615553::1697374357::1697374361::1::::<><>::
+tundra_ [bridgeVertical].png::CompressedTexture2D::8303586977729387398::1697374357::1697374361::1::::<><>::
+tundra_ [fencesAndWalls].png::CompressedTexture2D::7935462881935918523::1697374357::1697374361::1::::<><>::
+tundra_ [fountain].png::CompressedTexture2D::6100565452661671575::1697374357::1697374361::1::::<><>::
+tundra_ [ice].png::CompressedTexture2D::3811553399324710887::1697374357::1697374361::1::::<><>::
+tundra_ [resources].png::CompressedTexture2D::6003940894967474250::1697374357::1697374361::1::::<><>::
+tundra_.png::CompressedTexture2D::3577362780708426389::1697374357::1697374361::1::::<><>::
+::res://assets/playerSprites_ [version 1.0]/::1697374361
+fPlayer_ [dwarf].png::CompressedTexture2D::2879447413065633309::1697374357::1697374361::1::::<><>::
+fPlayer_ [elf].png::CompressedTexture2D::1367723624167476533::1697374357::1697374361::1::::<><>::
+fPlayer_ [human].png::CompressedTexture2D::7298240025708560991::1697374357::1697374361::1::::<><>::
+mPlayer_ [dwarf].png::CompressedTexture2D::7963069078702826885::1697374357::1697374361::1::::<><>::
+mPlayer_ [elf].png::CompressedTexture2D::1463883412439633706::1697374357::1697374361::1::::<><>::
+mPlayer_ [human].png::CompressedTexture2D::5036995809927157325::1697374357::1697374361::1::::<><>::
+playerDust_.png::CompressedTexture2D::6022161110444321690::1697374357::1697374361::1::::<><>::
+readMe_.txt::TextFile::-1::1697374357::0::1::::<><>::
+sword_ [diamond].png::CompressedTexture2D::4333248749861875125::1697374357::1697374361::1::::<><>::
+sword_ [gold].png::CompressedTexture2D::6379683186837849437::1697374357::1697374361::1::::<><>::
+sword_ [iron].png::CompressedTexture2D::1228209105877748343::1697374357::1697374361::1::::<><>::
+sword_ [shield].png::CompressedTexture2D::4016084234539463982::1697374357::1697374361::1::::<><>::
+sword_ [wood].png::CompressedTexture2D::4712185747734363814::1697374357::1697374361::1::::<><>::
+::res://Characters/::1698391248
+HandEquip.gd::GDScript::-1::1698391248::0::1::::<>Node2D<>::
+player.gd::GDScript::-1::1698388744::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::2292372455138149899::1698388744::0::1::::<><>::uid://db8k7gwojscwl::::res://assets/playerSprites_ [version 1.0]/fPlayer_ [human].png<>res://Characters/player.gd<>uid://b8evamqy0xvak::::res://assets/playerSprites_ [version 1.0]/sword_ [wood].png<>res://Characters/HandEquip.gd<>uid://j8nybihyebqc::::res://Items/test_item.tres<>res://Classes/HitBox.gd
+::res://Classes/::1698388744
+HitBox.gd::GDScript::-1::1698388744::0::1::::HitBox<>Area2D<>::
+HurtBox.gd::GDScript::-1::1698388744::0::1::::HurtBox<>Area2D<>::
+::res://Items/::1698390902
+equippable_item.gd::GDScript::-1::1698390902::0::1::::EquippableItem<>Resource<>::
+harvesting_tool.gd::GDScript::-1::1698390834::0::1::::HarvestingTool<>EquippableItem<>::
+test_item.tres::Resource/EquippableItem::700656303818010022::1698388744::0::1::::<><>::res://Items/equippable_item.gd<>uid://rq7oo00ad1ax::::res://assets/playerSprites_ [version 1.0]/sword_ [iron].png
+::res://Level/::1698388744
+game_level.gd::GDScript::-1::1698388744::0::1::::<>Node2D<>::
+game_level.tscn::PackedScene::4487195667634994473::1698388744::0::1::::<><>::uid://7wpblthpejqx::::res://Characters/player.tscn<>res://Level/game_level.gd<>uid://eneb2g8e752i::::res://Objects/resource_node_rock_tall.tscn
+::res://Objects/::1698388744
+resource_node_rock_tall.gd::GDScript::-1::1698388744::0::1::::ResourceNode<>StaticBody2D<>::
+resource_node_rock_tall.tscn::PackedScene::307838368025165430::1698388744::0::1::::<><>::uid://eiwtbmyi8dc::::res://assets/fantasy_ [version 2.0]/cave_/cave_ [resources].png<>res://Objects/resource_node_rock_tall.gd<>res://Classes/HurtBox.gd

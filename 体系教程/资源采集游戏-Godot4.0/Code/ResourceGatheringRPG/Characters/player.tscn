@@ -2,9 +2,9 @@
 
 [ext_resource type="Texture2D" uid="uid://db8k7gwojscwl" path="res://assets/playerSprites_ [version 1.0]/fPlayer_ [human].png" id="1_ex4gx"]
 [ext_resource type="Script" path="res://Characters/player.gd" id="1_pwcfm"]
-[ext_resource type="Texture2D" uid="uid://b8evamqy0xvak" path="res://assets/playerSprites_ [version 1.0]/sword_ [wood].png" id="2_pwcss"]
 [ext_resource type="Script" path="res://Characters/HandEquip.gd" id="3_gc7ds"]
 [ext_resource type="Resource" uid="uid://j8nybihyebqc" path="res://Items/test_item.tres" id="4_3gc06"]
+[ext_resource type="Texture2D" uid="uid://rq7oo00ad1ax" path="res://assets/playerSprites_ [version 1.0]/sword_ [iron].png" id="5_dsxdy"]
 [ext_resource type="Script" path="res://Classes/HitBox.gd" id="6_drkpn"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_0fkoi"]
@@ -1128,7 +1128,7 @@ equiped_item = ExtResource("4_3gc06")
 [node name="EquipSprite" type="Sprite2D" parent="HandEquip"]
 position = Vector2(6, -7)
 scale = Vector2(0.75, 0.75)
-texture = ExtResource("2_pwcss")
+texture = ExtResource("5_dsxdy")
 offset = Vector2(0, -6.66667)
 hframes = 4
 vframes = 2

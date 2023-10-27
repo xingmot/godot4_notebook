@@ -1,3 +1,4 @@
+@tool
 extends Node2D
 
 @onready var equip_sprite: Sprite2D = $EquipSprite
@@ -11,6 +12,6 @@ extends Node2D
 
 
 
-func _on_hit_box_hit(hurtbox) -> void:
-	if(hurtbox.get_parent() is ResourceNode):
-		print("hit the resource node")
+func _on_hit_box_hit(hurtbox:HurtBox) -> void:
+	if equiped_item.has_method('interact_with_body'):
+		equiped_item.interact_with_body(hurtbox.get_parent())
