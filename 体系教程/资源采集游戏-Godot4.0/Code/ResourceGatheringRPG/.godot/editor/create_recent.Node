@@ -1,7 +1,16 @@
+CanvasLayer
 Node2D
+Button
+HitBox
 CollisionShape2D
-Area2D
+HurtBox
+AnimationTree
+ColorRect
+StaticBody2D
+RemoteTransform2D
+Camera2D
 Sprite2D
+Area2D
 Node
 AnimationPlayer
 CharacterBody2D

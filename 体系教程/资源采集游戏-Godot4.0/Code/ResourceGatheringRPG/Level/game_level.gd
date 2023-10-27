@@ -1,0 +1,33 @@
+extends Node2D
+
+	
+func save_rockTall() ->void:
+	var save_data:={}
+	for node in self.get_children():
+		if node is ResourceNode:
+			save_data[get_path_to(node)]={
+				'starting_resources': node.starting_resources
+			}
+	var data_as_string := var_to_str(save_data)
+	
+	var file:=FileAccess.open("aaa",FileAccess.WRITE)
+	file.store_string(data_as_string)
+	file.close()
+
+func load_save_rockTall() -> void:
+	var file:=FileAccess.open("aaa",FileAccess.READ)
+	var data :Dictionary = str_to_var(file.get_as_text())
+	file.close()
+	
+	for node in self.get_children():
+		var path:=get_path_to(node)
+		if node is ResourceNode and data.has(path):
+			node.starting_resources=data[path].starting_resources
+
+
+func _on_save_pressed() -> void:
+	save_rockTall()
+
+
+func _on_load_pressed() -> void:
+	load_save_rockTall()
