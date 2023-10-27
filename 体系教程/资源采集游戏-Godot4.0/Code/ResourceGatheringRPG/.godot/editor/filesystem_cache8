@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698391300
+::res://::1698404367
 icon.svg::CompressedTexture2D::3726387878890016332::1697372688::1698391300::1::::<><>::
 ::res://assets/::1697374361
 ::res://assets/fantasy_ [version 2.0]/::1697374357
@@ -89,20 +89,24 @@ sword_ [gold].png::CompressedTexture2D::6379683186837849437::1697374357::1697374
 sword_ [iron].png::CompressedTexture2D::1228209105877748343::1697374357::1697374361::1::::<><>::
 sword_ [shield].png::CompressedTexture2D::4016084234539463982::1697374357::1697374361::1::::<><>::
 sword_ [wood].png::CompressedTexture2D::4712185747734363814::1697374357::1697374361::1::::<><>::
-::res://Characters/::1698391248
-HandEquip.gd::GDScript::-1::1698391248::0::1::::<>Node2D<>::
+::res://Characters/::1698404514
+HandEquip.gd::GDScript::-1::1698397752::0::1::::<>Node2D<>::
 player.gd::GDScript::-1::1698388744::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::2292372455138149899::1698388744::0::1::::<><>::uid://db8k7gwojscwl::::res://assets/playerSprites_ [version 1.0]/fPlayer_ [human].png<>res://Characters/player.gd<>uid://b8evamqy0xvak::::res://assets/playerSprites_ [version 1.0]/sword_ [wood].png<>res://Characters/HandEquip.gd<>uid://j8nybihyebqc::::res://Items/test_item.tres<>res://Classes/HitBox.gd
+player.tscn::PackedScene::2292372455138149899::1698404514::0::1::::<><>::uid://db8k7gwojscwl::::res://assets/playerSprites_ [version 1.0]/fPlayer_ [human].png<>res://Characters/player.gd<>res://Characters/HandEquip.gd<>uid://j8nybihyebqc::::res://Items/test_item.tres<>uid://rq7oo00ad1ax::::res://assets/playerSprites_ [version 1.0]/sword_ [iron].png<>res://Classes/HitBox.gd
 ::res://Classes/::1698388744
 HitBox.gd::GDScript::-1::1698388744::0::1::::HitBox<>Area2D<>::
 HurtBox.gd::GDScript::-1::1698388744::0::1::::HurtBox<>Area2D<>::
-::res://Items/::1698390902
-equippable_item.gd::GDScript::-1::1698390902::0::1::::EquippableItem<>Resource<>::
-harvesting_tool.gd::GDScript::-1::1698390834::0::1::::HarvestingTool<>EquippableItem<>::
-test_item.tres::Resource/EquippableItem::700656303818010022::1698388744::0::1::::<><>::res://Items/equippable_item.gd<>uid://rq7oo00ad1ax::::res://assets/playerSprites_ [version 1.0]/sword_ [iron].png
-::res://Level/::1698388744
+::res://Items/::1698404591
+equippable_item.gd::GDScript::-1::1698397466::0::1::::EquippableItem<>Resource<>::
+harvesting_tool.gd::GDScript::-1::1698404591::0::1::::HarvestingTool<>EquippableItem<>::
+test_item.tres::Resource/HarvestingTool::700656303818010022::1698404424::0::1::::<><>::uid://qwfivwenmufw::::res://Objects/Resources/Types/minable.tres<>res://Items/harvesting_tool.gd<>uid://rq7oo00ad1ax::::res://assets/playerSprites_ [version 1.0]/sword_ [iron].png
+::res://Level/::1698404514
 game_level.gd::GDScript::-1::1698388744::0::1::::<>Node2D<>::
-game_level.tscn::PackedScene::4487195667634994473::1698388744::0::1::::<><>::uid://7wpblthpejqx::::res://Characters/player.tscn<>res://Level/game_level.gd<>uid://eneb2g8e752i::::res://Objects/resource_node_rock_tall.tscn
-::res://Objects/::1698388744
-resource_node_rock_tall.gd::GDScript::-1::1698388744::0::1::::ResourceNode<>StaticBody2D<>::
-resource_node_rock_tall.tscn::PackedScene::307838368025165430::1698388744::0::1::::<><>::uid://eiwtbmyi8dc::::res://assets/fantasy_ [version 2.0]/cave_/cave_ [resources].png<>res://Objects/resource_node_rock_tall.gd<>res://Classes/HurtBox.gd
+game_level.tscn::PackedScene::4487195667634994473::1698404514::0::1::::<><>::uid://7wpblthpejqx::::res://Characters/player.tscn<>res://Level/game_level.gd<>uid://eneb2g8e752i::::res://Objects/resource_node_rock_tall.tscn
+::res://Objects/::1698404514
+resource_node_rock_tall.gd::GDScript::-1::1698403429::0::1::::ResourceNode<>StaticBody2D<>::
+resource_node_rock_tall.tscn::PackedScene::307838368025165430::1698404640::0::1::::<><>::uid://eiwtbmyi8dc::::res://assets/fantasy_ [version 2.0]/cave_/cave_ [resources].png<>res://Objects/resource_node_rock_tall.gd<>res://Classes/HurtBox.gd<>uid://qwfivwenmufw::::res://Objects/Resources/Types/minable.tres
+::res://Objects/Resources/::1698396309
+::res://Objects/Resources/Types/::1698404424
+minable.tres::Resource/ResourceNodeType::1168756817288563904::1698404424::0::1::::<><>::res://Objects/Resources/Types/resource_node_type.gd
+resource_node_type.gd::GDScript::-1::1698404424::0::1::::ResourceNodeType<>Resource<>::

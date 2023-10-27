@@ -1,3 +1,8 @@
+res://Objects/resource_node_rock_tall.tscn
+res://Objects/Resources/Types/minable.tres
 res://Items/test_item.tres
-res://Characters/player.tscn
+res://Objects/Resources/Types/resource_node_type.gd
 res://Level/game_level.tscn
+res://Characters/player.tscn
+res://Items/harvesting_tool.gd
+res://Objects/resource_node.gd
